@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Laxman Dhami</h1>
-<h3 align="center">A passionate Full Stack Developer from Kathmandu, Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammers&psig=AOvVaw0qtziTHF9NpQQdfV_h3_IO&ust=1674072204911000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjSxIqzz_wCFQAAAAAdAAAAABAE">
+<h1 align="left">Hi 👋, I'm Laxman Dhami</h1>
+<h3 align="left">A passionate Full Stack Developer from Kathmandu, Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxman-learner&label=Profile%20views&color=0e75b6&style=flat" alt="laxman-learner" /> </p>
 
