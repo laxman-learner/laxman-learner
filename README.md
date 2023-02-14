@@ -15,6 +15,7 @@
 <a href="https://linkedin.com/in/laxman-dhami-a63754262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxman-dhami-a63754262/" height="30" width="40" /></a>
 </p>
 <p align="left">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <a href="https://www.facebook.com/laxman.dhami.10048" target="blank"><img align="center" src="<i class="fa-brands fa-square-facebook"></i>" alt="https://www.facebook.com/laxman.dhami.10048" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
