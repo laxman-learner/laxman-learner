@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxman-learner" alt="laxman-learner" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Front End Development**
 
-- 💬 Ask me about **HTML5, CSS3, Javascript, PHP, Java**
+- 💬 Ask me about **HTML5,  CSS3,  Javascript,  PHP,  Java**
 
-- 📫 How to reach me **<a href="learneralex@2022@gmail.com"> Gmail </a>, <a href="https://www.linkedin.com/in/laxman-dhami-a63754262/">Linkedin</a>**
+- 📫 How to reach me **<a href="learneralex@2022@gmail.com"> Gmail </a>,  <a href="https://www.linkedin.com/in/laxman-dhami-a63754262/">Linkedin</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
