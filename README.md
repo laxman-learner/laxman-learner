@@ -7,9 +7,10 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **HTML5, CSS3, Javascript, PHP**
+- 💬 Ask me about **HTML5, CSS3, Javascript, PHP, Java**
 
-- 📫 How to reach me **learneralex2022@gmail.com, https://www.linkedin.com/in/laxman-dhami-a63754262/**
+- 📫 How to reach me **<a href="learneralex@2022@gmail.com"> Gmail </a>, 
+- <a href="https://www.linkedin.com/in/laxman-dhami-a63754262/">Linkedin</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
