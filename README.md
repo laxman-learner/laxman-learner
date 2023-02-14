@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML5, CSS3, Javascript, PHP**
 
-- 📫 How to reach me **learneralex2022@gmail.com**
+- 📫 How to reach me **learneralex2022@gmail.com, https://www.linkedin.com/in/laxman-dhami-a63754262/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
