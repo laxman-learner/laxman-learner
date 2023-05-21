@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Laxman Dhami</h1>
-<h3 align="left">A Passionate Front End Developer from Kathmandu, Nepal</h3>
+<h3 align="left">A Passionate Full Stack  Developer from Kathmandu, Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxman-learner&label=Profile%20views&color=0e75b6&style=flat" alt="laxman-learner" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxman-learner" alt="laxman-learner" /></a> </p>
 
-- 🌱 I’m currently learning **Front End Development**
+- 🌱 I’m currently working in **PHP**
 
 - 💬 Ask me about **HTML5,  CSS3,  Javascript,  PHP,  Java**
 
