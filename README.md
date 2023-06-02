@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Laxman Dhami</h1>
-<h3 align="left">A Passionate Front End Wrb Developer from Kathmandu, Nepal</h3>
+<h3 align="left">A Passionate Front End Web Developer from Kathmandu, Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxman-learner&label=Profile%20views&color=0e75b6&style=flat" alt="laxman-learner" /> </p>
 
