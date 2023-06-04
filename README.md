@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxman-learner" alt="laxman-learner" /></a> </p>
 
-- 🌱 I’m currently working in **PHP**
-
 - 💬 Ask me about **HTML5,  CSS3,  Javascript, React,  PHP,  Java**
 
 
